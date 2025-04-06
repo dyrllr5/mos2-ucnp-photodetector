@@ -23,3 +23,21 @@ This repository contains the research on MoS₂/UCNP nanohybrid-based photodetec
 
 ## 📂 Repository Structure
 
+
+## 📸 Figures
+
+Find device images, IV plots, and microscopy images in the `figures/` folder.
+
+## 📄 Published Paper
+
+The final paper, *"Graphene-Mediated MoS₂/UCNP Nanohybrid Photodetectors,"* is available in the `paper/` folder.
+
+## 🗣 Presentations
+
+Conference slides are available in the `presentation/` folder.
+
+## 📫 Contact
+
+Feel free to reach out:  
+📧 digvijaystomar@gmail.com  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=ahMgFlwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Digvijay-Tomar-2)
